@@ -7,19 +7,30 @@ tags: [facebook, hello, docusaurus]
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
-Simply add Markdown files (or folders) to the `blog` directory.
+## Localização:
+Empresa carros
+Endereço: Algures no mundo
 
-Regular blog authors can be added to `authors.yml`.
+## Telefone:
+968548201
 
-The blog post date can be extracted from filenames, such as:
+## E-mail:
+emprasacarros@kachow.pt
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+## Horário de Funcionamento:
+Segunda a Sexta: [08:00 - 18:00]
+Sábado: [09:00 - 15:00]
+Domingo: Fechado
 
-A blog post folder can be convenient to co-locate blog post images:
+## Redes Sociais:
+Siga-nos para ficar por dentro das últimas novidades, ofertas especiais e muito mais!
+{
+href: 'https://github.com/a85279/tp3'
+}
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+## Formulário de Contato:
+Se preferir, preencha nosso formulário de contato abaixo. Nossa equipe entrará em contato o mais rápido possível para ajudá-lo.
 
-The blog supports tags as well!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+
+Estamos ansiosos para atendê-lo e tornar sua experiência conosco a melhor possível. Não hesite em nos contatar!
