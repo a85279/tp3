@@ -34,3 +34,5 @@ Se preferir, preencha nosso formulário de contato abaixo. Nossa equipe entrará
 https://github.com/a85279
 
 Estamos ansiosos para atendê-lo e tornar sua experiência conosco a melhor possível. Não hesite em nos contatar!
+
+## KA-CHOW!
