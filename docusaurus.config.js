@@ -68,7 +68,7 @@ const config = {
         title: 'Empresa carros',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpg',
         },
         items: [
           {
