@@ -2,38 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Boas vindas
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bem-vindo à Empresa carros, KA-CHOW!
 
-## Getting Started
+## Sobre nos
 
-Get started by **creating a new site**.
+Somos uma paixão sobre rodas, uma empresa apaixonada por carros e comprometida em proporcionar experiências excepcionais aos nossos clientes. Desde a nossa fundação, nos dedicamos a oferecer não apenas veículos de alta qualidade, mas também um atendimento personalizado que atenda às necessidades e desejos de cada pessoa que entra em contato conosco.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### O que acreditamos
 
-### What you'll need
+Na Empresa carros, acreditamos que a jornada automotiva vai além da simples compra ou venda de um carro. É sobre criar laços, construir confiança e oferecer um serviço que transcenda as expectativas. Nossa equipe é formada por profissionais apaixonados e especializados que estão sempre prontos para orientar, aconselhar e ajudar em cada etapa do processo.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Nosso comprometimento
 
-## Generate a new site
+Comprometemo-nos não apenas em fornecer uma ampla gama de veículos de diferentes marcas e modelos, mas também em garantir que cada carro em nossa seleção atenda aos mais altos padrões de qualidade e confiabilidade. A transparência é fundamental para nós; buscamos sempre fornecer informações precisas e detalhadas sobre cada veículo em nosso estoque.
 
-Generate a new Docusaurus site using the **classic template**.
+Além disso, estamos constantemente buscando inovações e novas maneiras de melhorar a experiência dos nossos clientes. Desde facilidades de financiamento até serviços pós-venda excepcionais, estamos empenhados em tornar a jornada automotiva o mais tranquila e gratificante possível.
 
-The classic template will automatically be added to your project after you run the command:
+## Junte-se a nós
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Na Empresa carros, não somos apenas uma concessionária de carros; somos parceiros em sua jornada automotiva. Estamos entusiasmados em fazer parte da sua busca pelo veículo perfeito e em proporcionar uma experiência que você nunca esquecerá.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Junte-se a nós enquanto exploramos estradas, descobrimos tecnologias inovadoras e celebramos a paixão pelos carros.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+Seja bem-vindo à família Empresa carros,  KA-CHOW!
 
 ```bash
 cd my-website
