@@ -24,13 +24,13 @@ Domingo: Fechado
 
 ## Redes Sociais:
 Siga-nos para ficar por dentro das últimas novidades, ofertas especiais e muito mais!
-{
-href: 'https://github.com/a85279/tp3'
-}
+
+https://github.com/a85279/tp3
+
 
 ## Formulário de Contato:
 Se preferir, preencha nosso formulário de contato abaixo. Nossa equipe entrará em contato o mais rápido possível para ajudá-lo.
 
-
+https://github.com/a85279
 
 Estamos ansiosos para atendê-lo e tornar sua experiência conosco a melhor possível. Não hesite em nos contatar!
