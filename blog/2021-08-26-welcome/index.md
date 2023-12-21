@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Welcome
+slug: Entre em Contato
+title: Entre em Contato
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
