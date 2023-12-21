@@ -10,32 +10,30 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Inovação',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Empresa carros inova sempre com novos modelos de carros nunca antes visto.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tecnologia',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Tenha acesso as novas e melhores tecnologias produzidas pelos nossos melhores desenvolvedores
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Futuro',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        O futuro é com a empresa carros, não perca.
+        KA-CHOW!
       </>
     ),
   },
